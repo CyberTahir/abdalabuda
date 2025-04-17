@@ -8,7 +8,6 @@
             FirstExample();
             SecondExample();
             ThirdExample();
-            FourthExample();
 
             //// Проекция данных
             FifthExample();
